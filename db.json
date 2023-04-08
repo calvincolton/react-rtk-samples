@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mikael Boggie"
+    },
+    {
+      "name": "Tristin McKenn",
+      "id": 2
+    },
+    {
+      "name": "Reid Jay",
+      "id": 4
+    },
+    {
+      "name": "Whitney Leuschke",
+      "id": 5
+    },
+    {
+      "name": "Kristin Turner",
+      "id": 7
+    },
+    {
+      "name": "Morris Bartoletti DDS",
+      "id": 9
+    },
+    {
+      "name": "Rex Luettgen",
+      "id": 10
+    },
+    {
+      "name": "Dr. Kirk Champlin",
+      "id": 11
+    },
+    {
+      "name": "Ira Koch",
+      "id": 12
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "title": "Elegant Steel Tuna",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Modern Wooden Chicken",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "title": "Handmade Bronze Pizza",
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "title": "Small Fresh Pizza",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "title": "Modern Rubber Shoes",
+      "userId": 4,
+      "id": 11
+    },
+    {
+      "title": "Licensed Granite Chicken",
+      "userId": 4,
+      "id": 13
+    },
+    {
+      "title": "Refined Rubber Towels",
+      "userId": 4,
+      "id": 14
+    },
+    {
+      "title": "Elegant Rubber Gloves",
+      "userId": 2,
+      "id": 16
+    },
+    {
+      "title": "Licensed Soft Pants",
+      "userId": 4,
+      "id": 17
+    },
+    {
+      "title": "Elegant Soft Chicken",
+      "userId": 7,
+      "id": 20
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=59981",
+      "albumId": 1,
+      "id": 1
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=4370",
+      "albumId": 1,
+      "id": 2
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=91556",
+      "albumId": 2,
+      "id": 4
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=88361",
+      "albumId": 2,
+      "id": 6
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=26359",
+      "albumId": 2,
+      "id": 7
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=71485",
+      "albumId": 2,
+      "id": 8
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=91317",
+      "albumId": 2,
+      "id": 9
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=92747",
+      "albumId": 2,
+      "id": 10
+    }
+  ]
+}
